@@ -28,7 +28,7 @@ filtres issue du popupmenu, une image résultat apparaît.
 
 - Transformation en gris:
 
-![Optional Text](../master/images-readme/image_projet1.png)
+![Optional Text](../master/images-readme/image_projet4.png)
 
 
 </br>
@@ -51,7 +51,7 @@ filtres issue du popupmenu, une image résultat apparaît.
 
 - La détection avec deux images:
 
-![Optional Text](../master/images-readme/image_projet4.png)
+![Optional Text](../master/images-readme/image_projet1.png)
 
 </br>
 </br>
