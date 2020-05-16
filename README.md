@@ -31,23 +31,32 @@ filtres issue du popupmenu, une image résultat apparaît.
 ![Optional Text](../master/images-readme/image_projet1.png)
 
 
+</br>
+</br>
+
 - Transformation avec le filtre ‘Prewitt’ :
 
 ![Optional Text](../master/images-readme/image_projet2.png)
+
+</br>
+</br>
 
 
 - Transformation avec le filtre ‘Canny’ :
 
 ![Optional Text](../master/images-readme/image_projet3.png)
 
+</br>
+</br>
 
 - La détection avec deux images:
 
 ![Optional Text](../master/images-readme/image_projet4.png)
 
+</br>
+</br>
 
-
-- La détection avec deux images issue de la webcam :
+- La détection avec deux images issues de la webcam :
 
 sans différence :
 
@@ -64,10 +73,13 @@ On peut ainsi remarquer ci-dessous que les différences ne sont pas
 assez fortes pour être “alarmantes” (les différences comptées ne
 dépassent le seuil établie à > 3000
 
-
+</br>
+</br>
 
 ![Optional Text](../master/images-readme/image_projet6.png)
 
+</br>
+</br>
 
 avec différence:
 
@@ -82,6 +94,9 @@ nombre de différences dépassant le palier de 3000 pour distinguer les
 différences négligeables et les différences importantes comme on peut
 le voir ci-dessous).
 
+
+</br>
+</br>
 
 ![Optional Text](../master/images-readme/image_projet8.png)
 
